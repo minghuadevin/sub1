@@ -8,3 +8,4 @@ bbbbb
 3)循环交替
 冲突解决，以循环交替模式为准
 4)git再次提升level
+5)SSH方式push
